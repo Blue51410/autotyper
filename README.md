@@ -1,0 +1,2 @@
+# autotyper
+fuck edutyping
